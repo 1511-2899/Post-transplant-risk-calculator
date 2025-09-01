@@ -1,5 +1,4 @@
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
+Pandas version: 2.2.2
+NumPy version: 2.0.2
+Scikit-learn version: 1.6.1
+Joblib version: 1.5.1
